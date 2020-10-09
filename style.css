@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color: #BA68C8;
+  }
+  #firstp{
+    word-spacing:10px;
+    font-variant:small-caps;
+    text-align:center;
+    font-size:80px;
+}
+  #reasontext{
+    font-size: 50px; 
+  }
+  #album{
+    border-style:solid;
+    border-color:#BA68C8
+    
+  }
+  
